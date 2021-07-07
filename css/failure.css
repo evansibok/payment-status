@@ -11,6 +11,13 @@ h1 {
   margin-bottom: 10px;
 }
 
+h4 {
+  color: #dd1b1b;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
 .card-con {
   display: flex;
   justify-content: center;
