@@ -1,0 +1,1 @@
+# PAYMENT STATUS SCREEN TEMPLATE (Mobile Responsive)
