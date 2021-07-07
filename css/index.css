@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background: #ebf0f5;
+}
+
+h1 {
+  color: #88b04b;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.card-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background: white;
+    padding: 60px;
+    border-radius: 4px;
+    box-shadow: 0 2px 3px #c8d0d8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+    height: 400px;
+}
+
+.checkmark {
+  border-radius: 200px;
+    height: 90px;
+    width: 90px;
+    color: #9abc66;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
